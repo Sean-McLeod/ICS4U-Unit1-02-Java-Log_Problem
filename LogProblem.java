@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
 * This is a program that displays the number of logs that should be on the truck
 * considering the weight and the type(length) of the logs.
@@ -6,9 +8,6 @@
 * @version 1.0
 * @since   2021-04-22
 */
-
-import java.util.Scanner;
-
 
 final class LogProblem {
     private LogProblem() {
